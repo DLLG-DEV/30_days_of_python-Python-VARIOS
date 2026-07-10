@@ -1,7 +1,35 @@
-# 30 Days of Python
+# 🐍 30 Days of Python
 
-Este repositorio contiene mis soluciones y apuntes del reto **30 Days of Python**. El objetivo es fortalecer mis conocimientos en Python mediante ejercicios prácticos, repasando desde los fundamentos del lenguaje hasta temas más avanzados como estructuras de datos, funciones, módulos, programación orientada a objetos y manejo de archivos.
+Bienvenido a mi repositorio del reto **30 Days of Python**.
 
-Además de resolver cada ejercicio, busco escribir código limpio, aplicar buenas prácticas y documentar mi aprendizaje para construir un portafolio que refleje mis habilidades como desarrollador.
+En este proyecto documento mi progreso resolviendo cada uno de los ejercicios propuestos para fortalecer mis conocimientos en Python. Mi objetivo es desarrollar una base sólida en el lenguaje, mejorar mi capacidad para resolver problemas y aplicar buenas prácticas de programación.
 
-> Este repositorio forma parte de mi preparación para entrevistas técnicas y oportunidades laborales como Backend Python Junior.
+A lo largo del reto trabajaré temas como:
+
+* Variables y tipos de datos.
+* Operadores y expresiones.
+* Cadenas de texto.
+* Listas, tuplas, conjuntos y diccionarios.
+* Condicionales y ciclos.
+* Funciones y módulos.
+* Manejo de excepciones.
+* Programación orientada a objetos.
+* Manejo de archivos.
+* Expresiones regulares y más.
+
+## 🎯 Objetivo
+
+Este repositorio forma parte de mi preparación para entrevistas técnicas y oportunidades como **Backend Python Developer**. Cada solución busca ser clara, legible y mantener buenas prácticas de desarrollo.
+
+## 📚 Estructura
+
+Cada carpeta corresponde a un día del reto e incluye las soluciones de los ejercicios y, cuando es necesario, comentarios para explicar la lógica utilizada.
+
+## 🚀 Progreso
+
+* ✅ Día 01
+* ⏳ Días 02–30 (en progreso)
+
+---
+
+*"La mejor forma de aprender a programar es escribiendo código todos los días."*
